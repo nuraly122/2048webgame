@@ -9,9 +9,10 @@ Dinosaur Game, also known as T-Rex Game and Dino Runner, is an in-built browser 
 The game is controlled by the up arrows ( ↑ )
 and jump with the space bar ( space )
 
-# Photo
+# Photo 
 
-![alt text](dino.png)
+
+![alt text](dino.png)        ![alt text](rock.png)
 
 [You
 
