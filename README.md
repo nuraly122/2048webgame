@@ -14,6 +14,10 @@ and jump with the space bar ( space )
 
 ![alt text](dino.png)        ![alt text](rock.png)
 
+
+
+![alt text](screen.jpg)
+
 [You
 
 
