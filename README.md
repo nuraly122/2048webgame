@@ -11,7 +11,7 @@ and jump with the space bar ( space )
 
 # Photo
 
-![alt text](backgrond.png)
+![alt text](dino.png)
 
 [You
 
