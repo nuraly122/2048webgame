@@ -16,7 +16,7 @@ and jump with the space bar ( space )
 
 
 
-![alt text](screen.jpg)
+![alt text](/Screenshots/screen.jpg)
 
 [You
 
